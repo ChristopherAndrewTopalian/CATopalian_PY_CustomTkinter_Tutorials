@@ -1,0 +1,50 @@
+# CATopalian PY CustomTkinter Tutorials
+This Python Tutorial teaches CustomTkinter, which is an excellent gui. It is very intuitive and easy for beginners.
+
+---
+
+![A Basic Window](src/b_user_interface_elements//a_basic_window/001.webp)
+![A Dark Theme](src/b_user_interface_elements//b_dark_theme/a_dark_theme/001.webp)
+![C Show Text](src/b_user_interface_elements//c_show_text/001.webp)
+![D Button Count Up](src/b_user_interface_elements//d_button_count_up/001.webp)
+![E Button Counter](src/b_user_interface_elements//e_button_counter/001.webp)
+![F Change Text](src/b_user_interface_elements//f_change_text/001.webp)
+![G Change Text Lambda](src/b_user_interface_elements//g_change_text_lambda/001.webp)
+![H Text Input](src/b_user_interface_elements//h_text_input/001.webp)
+![I Two Input Addition](src/b_user_interface_elements//i_two_input_addition/001.webp)
+![J Rectangle Perimeter](src/b_user_interface_elements//j_rectangle_perimeter/001.webp)
+![K Rectangle Perimeter And Area](src/b_user_interface_elements//k_rectangle_perimeter_and_area/001.webp)
+![L Slider](src/b_user_interface_elements//l_slider/001.webp)
+![N Toggle Switch](src/b_user_interface_elements//n_toggle_switch/001.webp)
+![O Radio Buttons](src/b_user_interface_elements//o_radio_buttons/001.webp)
+![P Radio Buttons Multi Selection](src/b_user_interface_elements//p_radio_buttons_multi_selection/001.webp)
+![Q Drop Down Menu](src/b_user_interface_elements//q_drop_down_menu/001.webp)
+![R Progress Bar](src/b_user_interface_elements//r_progress_bar/001.webp)
+![S Image](src/b_user_interface_elements//s_image/001.webp)
+
+---
+
+### How to Download this App
+1. Click the green Code Button on this github page
+2. Choose Download ZIP
+3. Save the Zip File
+4. Extract All
+5. Open the Python File in VSCode
+6. Run it in VSCode or
+7. We could choose to just
+right click on the Python file, and open with Python, to start the app
+
+---
+
+Happy Scripting :-)
+
+---
+
+//----//  
+
+// Dedicated to God the Father  
+// All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026  
+// https://github.com/ChristopherTopalian  
+// https://github.com/ChristopherAndrewTopalian  
+// https://sites.google.com/view/CollegeOfScripting
+
