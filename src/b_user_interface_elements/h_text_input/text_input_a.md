@@ -111,6 +111,7 @@ confirm_btn.pack(pady=10)
 
 # Turn on the window and keep it running in an endless loop until the user clicks X to close it.
 window.mainloop()
+```
 
 ---
 
